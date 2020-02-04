@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Meine erste Website">
+        <title>Erste Website</title>
+        <style> .uberschrift {
+            font: font-family:courier,arial,helvetica;
+            text-align: center;
+            color: currentColor
+            }
+            .punkte{
+                color: slategray;
+                text-align: left;
+            }
+            .text{
+            
+                text-align: center;
+                    
+            }
+            .irgendwas{
+                color: darkblue;
+                font: font-family:courier,arial,helvetica; 
+                    
+            }
+        </style>
+    </head>
+    
+    <body>
+       <p> <center> <img src="http://r67.cooltext.com/rendered/cooltext348305793367872.png" alt="s" id="oben"> </center> </p>
+        <h1> Mein Praktikum in der OctaVIA: </h1>
+        <div class="punkte"><ul>
+         <li >  Tag 1 : <br> Mein erster Tag in der Firma war schön. </li>
+               <li>  Tag 2 : <br> Mein zweiter Tag in der Firma fing super an. </li>
+            </ul></div>
+        <hr>
+        <h1 class="uberschrift"> Über mich: </h1>
+        <div style="color: chocolate"><i><center> Ich heiße Mateusz und bin 15 Jahre Alt.Zurzeit mache ich mein Praktikum in der Octavia.<span class="irgendwas">Das Praktikum macht mega viel Spaß und es gefällt mir sehr.</span></center></i></div> <br>
+        Meine Hobys:<ol>
+             <li> Zocken </li>
+        <li> Basketball</li>
+            </ol>
+        <p style="font:font-family:courier,arial,helvetica ">Mein Lieblingslied</p>
+        <iframe width="250" height="150" src="https://www.youtube.com/watch?v=1AGBKfw14tw"></iframe>
+        <a class="video" href="https://www.youtube.com/watch?v=1AGBKfw14tw" target="_blank" id="https://www.youtube.com/watch?v=1AGBKfw14tw"> der Link: </a>
+        
+        
+        
+        
+        
+        
+        <hr>
+        <h3> Feedback</h3>
+        <form>
+            Hat Ihnen die Seite gefallen:<input type="radio">ja<input type="radio">nein<br>Tipps für mich:
+            <textarea name="Tipps für mich:" cols0="65" rows="10"></textarea><br>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr> <a class="sss" href="#oben"><button>Nach Oben</button></a>
+            
+        </form>
+        
+    </body>
+
+</html>
